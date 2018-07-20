@@ -1,0 +1,135 @@
+ #map {
+  width: 100%;
+  height: 100%;
+}
+
+.infoLoss {
+  padding: 6px 8px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+
+.infoLoss h4 {
+  margin: 0 0 5px;
+  color: #000000;
+}
+
+.info {
+  padding: 6px 8px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+
+.info h4 {
+  margin: 0 0 5px;
+  color: #000000;
+}
+
+.infoClaims {
+  padding: 6px 8px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+
+.infoClaims h4 {
+  margin: 0 0 5px;
+  color: #000000;
+}
+
+
+.legendClaims {
+  text-align: center;
+  line-height: 18px;
+  color: #555;
+}
+    
+.legendClaims i {
+  width: 50px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.9;
+}
+
+.legendPrem {
+  text-align: center;
+  line-height: 18px;
+  color: #555;
+}
+    
+.legendPrem i {
+  width: 50px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.9;
+}
+
+.LossLegend {
+  line-height: 18px;
+  color: #555;
+}
+
+.LossLegend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+.NClaimsLegend {
+  line-height: 18px;
+  color: #555;
+}
+
+.NClaimsLegend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+.ExposureLegend {
+  line-height: 18px;
+  color: #555;
+}
+
+.ExposureLegend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+.infoExposure {
+  padding: 6px 8px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+
+.infoExposure h4 {
+  margin: 0 0 5px;
+  color: #000000;
+}
+
+#slider {
+  position: absolute; 
+  bottom: 50px; 
+  left: 50px; 
+  width: 300px
+}
